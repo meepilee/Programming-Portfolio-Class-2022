@@ -7,8 +7,16 @@
 ### SpaceGame
 OOP solution for a collision based graphics space shooter game
 
-![SpaceGame]()<img width="998" alt="SpaceGame" src="https://user-images.githubusercontent.com/89152916/157061660-9712a683-3610-4357-bb57-eb82922c56fb.png">
+<img width="998" alt="SpaceGame" src="https://user-images.githubusercontent.com/89152916/157061660-9712a683-3610-4357-bb57-eb82922c56fb.png">
 
 [Source Code](https://github.com/meepilee/Programming-Portfolio-Class-2022/files/8198709/SpaceGame.3-1.zip)
+
+### Calculator
+Solution for a graphic calculator
+
+<img width="238" alt="Calculator" src="https://user-images.githubusercontent.com/89152916/157063910-dd9000c2-b1fc-40bd-8f3c-78309d079b5d.png">
+
+[Source Code](https://github.com/meepilee/Programming-Portfolio-Class-2022/files/8198800/Calculator_Final.zip)
+
 
 ## C++ Projects
