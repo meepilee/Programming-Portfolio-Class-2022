@@ -20,3 +20,10 @@ Solution for a graphic calculator
 
 
 ## C++ Projects
+
+### Number Guessing Game
+Basic text based game
+
+<img width="466" alt="NumberGuessGame" src="https://user-images.githubusercontent.com/89152916/157066007-18288f8c-547a-444c-87af-ff3b278f655f.png">
+
+[Source Code](https://github.com/meepilee/Programming-Portfolio-Class-2022/files/8198884/main.3.cpp.zip)
