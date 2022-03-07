@@ -24,6 +24,6 @@ Solution for a graphic calculator
 ### Number Guessing Game
 Basic text based game
 
-<img width="466" alt="NumberGuessGame" src="https://user-images.githubusercontent.com/89152916/157066007-18288f8c-547a-444c-87af-ff3b278f655f.png">
+<img width="459" alt="NumberGuessingGame" src="https://user-images.githubusercontent.com/89152916/157066655-d84b9359-8daf-4539-b795-1474b910af7c.png">
 
 [Source Code](https://github.com/meepilee/Programming-Portfolio-Class-2022/files/8198884/main.3.cpp.zip)
