@@ -39,3 +39,10 @@ Project that converts text to Pig Latin via console
 
 [Source Code](https://github.com/meepilee/Programming-Portfolio-Class-2022/files/8772085/RightSuddenBoolean.zip)
 
+### Birthday Calculator
+Console based solution for a program that returns how old you are based on birthday
+
+<img width="563" alt="Screen Shot 2022-05-25 at 8 42 41 AM" src="https://user-images.githubusercontent.com/89152916/170289915-17dbd74b-5396-4920-a592-871203ee76e4.png">
+
+[Source Code](https://github.com/meepilee/Programming-Portfolio-Class-2022/files/8772118/TanCostlyDisks.zip)
+
