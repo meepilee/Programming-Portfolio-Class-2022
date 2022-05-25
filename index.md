@@ -1,6 +1,7 @@
 # Brannon Lai's Programming 1 Portfolio
 
 2022 Programming projects for Processing and C++.
+(School Email:[branlai9690@granitesd.org](branlai9690@granitesd.org))
 
 ## Processing Projects
 
