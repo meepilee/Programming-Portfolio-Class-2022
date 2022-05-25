@@ -35,5 +35,7 @@ Basic text based game
 ### Pig Latin Converter
 Project that converts text to Pig Latin via console
 
+<img width="559" alt="PigLatin" src="https://user-images.githubusercontent.com/89152916/170289300-dc3f1944-0a60-409b-9c00-4cbd7c25d3ba.png">
+
 [Source Code](https://github.com/meepilee/Programming-Portfolio-Class-2022/files/8772085/RightSuddenBoolean.zip)
 
