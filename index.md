@@ -1,10 +1,12 @@
-# Brannon Lai's Programming 1 Portfolio
+# Brannon Lai's Programming Portfolio
 
-2022 Programming projects for Processing and C++. 
+2022-2023 Programming projects for Processing C++ and Java
 
 (School Email:[branlai9690@granitesd.org](branlai9690@granitesd.org))
 
 (Personal Email: [branbran3gt@gmail.com](branbran3gt@gmail.com))
+
+## 2022
 
 ## Processing Projects
 
@@ -46,3 +48,25 @@ Console based solution for a program that returns how old you are based on birth
 
 [Source Code](https://github.com/meepilee/Programming-Portfolio-Class-2022/files/8772118/TanCostlyDisks.zip)
 
+## 2023
+
+## Java (Eclipse)
+
+### Heapsort
+Program that sorts based on user input
+
+### 3 Dimensional Array
+Creates an a Multiplication table of specified size, and then all the factors of each number in the table
+
+### Hangman
+Hangman game with ascii graphics (Requires fullscreen to view some of the graphics)
+Made with Jeffrey Zou
+
+## Processing
+
+### Cellular Automata
+Evolution simulator of cells that will eat food and grow smarter
+Made with Calvin Webb, Evan Luo, Jeffrey Zou, Ethan Mabey
+
+### Bloons Tower Defense Clone
+Game inspired by the game 'Bloons TD', only has 1 type of tower
