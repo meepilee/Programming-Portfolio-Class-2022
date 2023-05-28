@@ -1,5 +1,7 @@
 # Brannon Lai's Programming Portfolio
 
+Certified for the State in Year 1 (Java, C++, C#, Python) and Year 2
+
 2022-2023 Programming projects for Processing C++ and Java
 
 (School Email:[branlai9690@granitesd.org](branlai9690@granitesd.org))
@@ -67,6 +69,7 @@ Made with Jeffrey Zou
 ### Cellular Automata
 Evolution simulator of cells that will eat food and grow smarter
 Made with Calvin Webb, Evan Luo, Jeffrey Zou, Ethan Mabey
+https://github.com/CalvinWebb/A1GroupProject
 
 ### Bloons Tower Defense Clone
 Game inspired by the game 'Bloons TD', only has 1 type of tower
